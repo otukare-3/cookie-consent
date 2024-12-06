@@ -52,4 +52,8 @@
   background-color: lightgray;
 }
 
+.hidden {
+  visibility: hidden;
+}
+
 /*# sourceMappingURL=style.css.map */
